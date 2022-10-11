@@ -5,7 +5,7 @@
 - 所需安装的外部数据包：numpy
 ## 运行步骤
 - 第一步将代码git clone到本地仓库
-- 第二步直接运行algorithm.py即可，其余文件都是位algorithm.py文件服务的
+- 第二步直接运行algorithm.py即可，其余文件都是为algorithm.py文件服务的
 ## 输入输出说明
 ### 数据集生成
  - 仓库中，Data generation.py是数据集生成算法，本仓库中已经用该算法生成了coure0-course4以及student0-student4数据集；
